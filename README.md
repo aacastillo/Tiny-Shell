@@ -1,4 +1,4 @@
-# tiny-Shell
+# Tiny-Shell
 This project focuses on process management using the fork, exec, and wait system calls to build a tiny shell. Command shells use these system calls to run commands through different child processes.
 
 ## Details
